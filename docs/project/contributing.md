@@ -15,7 +15,7 @@ CS101 项目采用 GitHub 进行协作。您可以参考 [Git & GitHub](../tools
     其中 `type` 为您此次所做的修改的类别。例如，如果是写作了新的内容，`type` 为 `feat`；如果是修复了过去的一个问题，`type` 为 `fix`。
     >[!INFO] 提示
     > 这是 Semantic/Conventional Commit Message 的要求。如果您想要了解更多的话，可以参考 [这个规范文档](https://www.conventionalcommits.org/en/v1.0.0/)。
-4.  Propose changes 按钮提交修改；
+4. 点击 Propose Changes 按钮提交修改；
 5. 在下一个页面中，点击 Create Pull Request 按钮，在弹出的 Pull Request 详情页面中，简要叙述修改的内容；
 6. 大功告成！您只需要等待管理员审核并合并到主仓库中即可。
 
