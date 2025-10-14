@@ -10,8 +10,7 @@ hero:
   actions:
     - theme: brand
       text: 启动！
-      link: /tools/markdown1.md
-
+      link: /project/welcome.md
 features:
   - icon: 📝
     title: 课程资源

@@ -29,7 +29,7 @@ import 'vitepress-plugin-codeblocks-fold/style/index.css';
 import '@nolebase/vitepress-plugin-page-properties/client/style.css';
 import '@nolebase/vitepress-plugin-enhanced-mark/client/style.css';
 import Confetti from "./components/Confetti.vue";
-
+import EditButton from "./components/EditButton.vue";
 import Hero from '../theme/Layout.vue';
 import NCard from './components/NCard.vue';
 
@@ -48,6 +48,7 @@ export default {
   },
   enhanceApp({ app }) {
     app.component("Confetti", Confetti); //注册全局组件
+    app.component("EditButton", EditButton);
     app.use(NolebaseEnhancedReadabilitiesPlugin, {
       spotlight: {
         disableHelp: true,
