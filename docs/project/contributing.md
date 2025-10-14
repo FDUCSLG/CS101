@@ -1,7 +1,7 @@
 # 贡献指南
 CS101 项目采用 GitHub 进行协作。您可以参考 [Git & GitHub](../tools/git-and-github.md) 这篇文档来学会基本操作。
 
-要参与贡献，您需要一个 GitHub 账号（可以前往 [GitHub 的账号注册页面](https://github.com/signup) 页面注册），但不需要高超的 GitHub 技巧，即使你是一名新手，只要按照下面所述的步骤操作，也能够非常出色地完成编辑。
+要参与贡献，您需要一个 GitHub 账号（可以前往 [GitHub 的账号注册页面](https://github.com/signup) 注册），但不需要高超的 GitHub 技巧，即使你是一名新手，只要按照下面所述的步骤操作，也能够非常出色地完成编辑。
 
 ## 编辑的基本步骤
 简单来说，是这么几步：
