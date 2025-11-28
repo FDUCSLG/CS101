@@ -82,13 +82,21 @@ function sidebarGuide(): DefaultTheme.Sidebar {
       ],
     },
     {
-       text: "Linux & Shell",
-       collapsible: true,
-       collapsed: false,
-       items: [
-         { text: "基本命令行常识", link: "/linux-and-shell/basic-command-line" },
-         { text: "发行版相关", link: "/linux-and-shell/on-distros" },
-        ],
+      text: "Linux & Shell",
+      collapsible: true,
+      collapsed: false,
+      items: [
+        { text: "基本命令行常识", link: "/linux-and-shell/basic-command-line" },
+        { text: "发行版相关", link: "/linux-and-shell/on-distros" },
+      ],
+    },
+    {
+      text: "FAQ101",
+      collapsible: true,
+      collapsed: false,
+      items: [
+        { text: "基础硬件知识", link: "/FAQ101/intro-to-hardware" },
+      ],
     },
     { text: "贡献指南", link: "/project/contributing" },
     { text: "关于 CS101 项目", link: "/project/project" },
